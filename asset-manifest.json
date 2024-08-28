@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3940de3.css",
-    "main.js": "/static/js/main.fba4cfe0.js",
-    "index.html": "/index.html",
-    "main.e3940de3.css.map": "/static/css/main.e3940de3.css.map",
-    "main.fba4cfe0.js.map": "/static/js/main.fba4cfe0.js.map"
+    "main.css": "/chess-board-using-react-js/static/css/main.e3940de3.css",
+    "main.js": "/chess-board-using-react-js/static/js/main.fba4cfe0.js",
+    "index.html": "/chess-board-using-react-js/index.html",
+    "main.e3940de3.css.map": "/chess-board-using-react-js/static/css/main.e3940de3.css.map",
+    "main.fba4cfe0.js.map": "/chess-board-using-react-js/static/js/main.fba4cfe0.js.map"
   },
   "entrypoints": [
     "static/css/main.e3940de3.css",
